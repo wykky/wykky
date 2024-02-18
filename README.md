@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wykky
 - 👀 I’m interested in coding and capital allocation.
-- 🌱 I’m currently learning python and C++.
+- 🌱 I’m currently learning Rust.
 
 <!---
 wykky/wykky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
